@@ -1,7 +1,4 @@
-/* 
- * echoserver.c - A simple connection-based echo server 
- * usage: echoserver <port>
- */
+
 
 #include <stdio.h>
 #include <unistd.h>
