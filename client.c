@@ -1,7 +1,4 @@
-/* 
- * echoclient.c - A simple connection-based client
- * usage: echoclient <host> <port>
- */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
